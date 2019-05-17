@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapsActivity</string>
+    <string name="get_location">Get Location</string>
+    <string name="android_image">Android Image</string>
+    <string name="textview_hint">Press the button to get the last known
+        location
+    </string>
+
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+\n Timestamp: %3$tr"</string>
+    <string name="no_location">No location</string>
+    <string name="yes">ENABLE</string>
+</resources>
